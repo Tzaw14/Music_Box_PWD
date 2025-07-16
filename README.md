@@ -11,14 +11,15 @@ caja-musica/
 ├── styles.css
 ├── sketch.js
 └── assets/
-└── tu_musica.mp3
+└── IOTVO 1.mp3
 ## Tecnologías Usadas
 - HTML5 / CSS3
 - JavaScript (ES6)
 - [p5.js](https://p5js.org/) + [p5.sound.js](https://p5js.org/reference/#/libraries/p5.sound)
 ## Cómo usar
 1. Cloná el repositorio.
-2. Colocá tu archivo `.mp3` en la carpeta `assets/` y renómbralo como `tu_musica.mp3`.
-3. Abrí `index.html` en tu navegador.
+2. Colocá tu archivo `.mp3` en la carpeta `assets/` y renómbralo como `[el nombre de tu musica].mp3`
+3. Cambia la linea de codigo numero 8 en el archivo `sketch.js` para que sea el nombre de tu archivo `.mp3`.
+4. Abrí `index.html` en tu navegador.
 ## Autor:
 Tiziano Zawadski – 7.º 2.º B – 2025
