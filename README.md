@@ -11,7 +11,7 @@ caja-musica/
 ├── styles.css
 ├── sketch.js
 └── assets/
-└── IOTVO 1.mp3
+      └── IOTVO 1.mp3
 ## Tecnologías Usadas
 - HTML5 / CSS3
 - JavaScript (ES6)
@@ -22,4 +22,4 @@ caja-musica/
 3. Cambia la linea de codigo numero 8 en el archivo `sketch.js` para que sea el nombre de tu archivo `.mp3`.
 4. Abrí `index.html` en tu navegador.
 ## Autor:
-Tiziano Zawadski – 7.º 2.º B – 2025
+Tiziano Zawadski – 7°2º B 
