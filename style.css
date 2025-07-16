@@ -1,0 +1,51 @@
+:root {
+    --neon: #00ffcc;
+    --oscuro-base: #211e34;
+    --oscuro-intermedio: #393658;
+    --azul-morado: #505680;
+    --azul-claro: #768ab2;
+    --rosa-claro: #dd8aa2;
+    --texto: #e6f1ff;
+    --error: #ff6666;
+    --rojo: #ff3333;
+    --deshabilitado: #3a3a4f;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: var(--oscuro-base);
+    color: var(--texto);
+    text-align: center;
+  }
+  
+  h1 {
+    color: var(--neon);
+    text-shadow: 0 0 10px var(--neon);
+  }
+  
+  button {
+    background-color: var(--azul-claro);
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px var(--azul-claro);
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+
+  button:hover {
+    background-color: var(--rosa-claro);
+  }
+  
+  #musicBox {
+    margin: 20px auto;
+    width: 420px;
+    padding: 1%;
+    height: 220px;
+    border: 3px solid var(--neon);
+    background: var(--oscuro-intermedio);
+    box-shadow: 0 0 20px var(--neon);
+    border-radius: 16px;
+  } 
