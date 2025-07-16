@@ -1,5 +1,4 @@
 # Music_Box_PWD
-Proyecto desarrollado para la materia Proyecto de Implementación de Sitios Web Dinámicos en 7° 2° B - EEST N.º 1 “Eduardo Ader”.
 ## Descripción
 Este proyecto es una caja de música visual interactiva desarrollada con p5.js y p5.sound.js, que reproduce una canción elegida por el usuario y genera visualizaciones animadas al ritmo de la música.
 ## Características
