@@ -5,7 +5,7 @@ let playing = false;
 let bgColor;
 
 function preload() {
-  song = loadSound('assets/IOTVO 1.mp3');
+  song = loadSound('Assets/IOTVO 1.mp3');
 }
 
 function setup() {
@@ -44,4 +44,5 @@ function togglePlay() {
     playButton.html('⏸ Pausar');
   }
   playing = !playing;
+
 }
